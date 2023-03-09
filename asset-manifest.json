@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2800da88.css",
+    "main.js": "/static/js/main.2b569b88.js",
+    "static/js/787.9a63733b.chunk.js": "/static/js/787.9a63733b.chunk.js",
+    "static/media/1.png": "/static/media/1.b126d8a74a26d18f860b.png",
+    "static/media/2.jpeg": "/static/media/2.56f7f21406e9ef458f42.jpeg",
+    "static/media/bg-image.png": "/static/media/bg-image.a233f3bd2e8a29638629.png",
+    "static/media/3.jpg": "/static/media/3.29501ab2545f735f5ffc.jpg",
+    "static/media/image.png": "/static/media/image.663a22a4f920670155e2.png",
+    "static/media/road.png": "/static/media/road.345731111459e5ba5e92.png",
+    "static/media/2.jpg": "/static/media/2.62305036d6e7f45cea71.jpg",
+    "static/media/cont-ph.png": "/static/media/cont-ph.5fb5c8314ca48e4efd7d.png",
+    "static/media/bg-sli-3.jpg": "/static/media/bg-sli-3.d2b339d07c7336be5165.jpg",
+    "static/media/bg-card.png": "/static/media/bg-card.0472129b5a5d5c64fcbf.png",
+    "static/media/1.jpg": "/static/media/1.0c88e5669cd0d714e52b.jpg",
+    "static/media/bg-image-1.png": "/static/media/bg-image-1.f0268c09a3426cf64475.png",
+    "static/media/image5.png": "/static/media/image5.5d01336a6d897b14875c.png",
+    "static/media/Vector.svg": "/static/media/Vector.97f2fa17fea2ff4b1672.svg",
+    "index.html": "/index.html",
+    "static/media/humburger-closed.svg": "/static/media/humburger-closed.506f2e12ad7ced2462bb.svg",
+    "static/media/humb.svg": "/static/media/humb.df99c0087556404f32f4.svg",
+    "main.2800da88.css.map": "/static/css/main.2800da88.css.map",
+    "main.2b569b88.js.map": "/static/js/main.2b569b88.js.map",
+    "787.9a63733b.chunk.js.map": "/static/js/787.9a63733b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2800da88.css",
+    "static/js/main.2b569b88.js"
+  ]
+}
