@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c049f18.css",
-    "main.js": "/static/js/main.f980bedf.js",
+    "main.css": "/static/css/main.2ea2d3ed.css",
+    "main.js": "/static/js/main.a7a345aa.js",
     "static/js/787.9a63733b.chunk.js": "/static/js/787.9a63733b.chunk.js",
     "static/media/bg-image.png": "/static/media/bg-image.a233f3bd2e8a29638629.png",
     "static/media/2.jpeg": "/static/media/2.b63e4ed5307f68acbb5a.jpeg",
@@ -19,12 +19,12 @@
     "index.html": "/index.html",
     "static/media/humburger-closed.svg": "/static/media/humburger-closed.506f2e12ad7ced2462bb.svg",
     "static/media/humb.svg": "/static/media/humb.df99c0087556404f32f4.svg",
-    "main.5c049f18.css.map": "/static/css/main.5c049f18.css.map",
-    "main.f980bedf.js.map": "/static/js/main.f980bedf.js.map",
+    "main.2ea2d3ed.css.map": "/static/css/main.2ea2d3ed.css.map",
+    "main.a7a345aa.js.map": "/static/js/main.a7a345aa.js.map",
     "787.9a63733b.chunk.js.map": "/static/js/787.9a63733b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c049f18.css",
-    "static/js/main.f980bedf.js"
+    "static/css/main.2ea2d3ed.css",
+    "static/js/main.a7a345aa.js"
   ]
 }
