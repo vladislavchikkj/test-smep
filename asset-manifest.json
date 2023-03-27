@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbc9199e.css",
-    "main.js": "/static/js/main.7d0bedf7.js",
+    "main.css": "/static/css/main.9ff03950.css",
+    "main.js": "/static/js/main.1a106222.js",
     "static/js/787.9a63733b.chunk.js": "/static/js/787.9a63733b.chunk.js",
     "static/media/сертификат_соответствия_по_охране_труда-min.png": "/static/media/сертификат_соответствия_по_охране_труда-min.ce4f361adf9749749a11.png",
     "static/media/сертификатсоответствияISO-min.png": "/static/media/сертификатсоответствияISO-min.a0fbbb0be4bc7d42f238.png",
@@ -18,6 +18,7 @@
     "static/media/gay.jpg": "/static/media/gay.52ebfd559741caf21a38.jpg",
     "static/media/image.png": "/static/media/image.ad2ac7babc8178c251e8.png",
     "static/media/smt.jpg": "/static/media/smt.a98af21f6b65ece53338.jpg",
+    "static/media/SMEP_emblema-min.jpg": "/static/media/SMEP_emblema-min.e1a61651ac5e8e1f7359.jpg",
     "static/media/road.png": "/static/media/road.f77d3ea5009742abc8cd.png",
     "static/media/1.jpg": "/static/media/1.0c88e5669cd0d714e52b.jpg",
     "static/media/bg-image-1.png": "/static/media/bg-image-1.f0268c09a3426cf64475.png",
@@ -33,12 +34,12 @@
     "index.html": "/index.html",
     "static/media/humburger-closed.svg": "/static/media/humburger-closed.506f2e12ad7ced2462bb.svg",
     "static/media/humb.svg": "/static/media/humb.df99c0087556404f32f4.svg",
-    "main.fbc9199e.css.map": "/static/css/main.fbc9199e.css.map",
-    "main.7d0bedf7.js.map": "/static/js/main.7d0bedf7.js.map",
+    "main.9ff03950.css.map": "/static/css/main.9ff03950.css.map",
+    "main.1a106222.js.map": "/static/js/main.1a106222.js.map",
     "787.9a63733b.chunk.js.map": "/static/js/787.9a63733b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbc9199e.css",
-    "static/js/main.7d0bedf7.js"
+    "static/css/main.9ff03950.css",
+    "static/js/main.1a106222.js"
   ]
 }
