@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3550ed3.css",
+    "main.css": "/static/css/main.31635f50.css",
     "main.js": "/static/js/main.5c19d495.js",
     "static/js/787.9a63733b.chunk.js": "/static/js/787.9a63733b.chunk.js",
     "static/media/сертификат_соответствия_по_охране_труда-min.png": "/static/media/сертификат_соответствия_по_охране_труда-min.ce4f361adf9749749a11.png",
@@ -34,12 +34,12 @@
     "index.html": "/index.html",
     "static/media/humburger-closed.svg": "/static/media/humburger-closed.506f2e12ad7ced2462bb.svg",
     "static/media/humb.svg": "/static/media/humb.df99c0087556404f32f4.svg",
-    "main.c3550ed3.css.map": "/static/css/main.c3550ed3.css.map",
+    "main.31635f50.css.map": "/static/css/main.31635f50.css.map",
     "main.5c19d495.js.map": "/static/js/main.5c19d495.js.map",
     "787.9a63733b.chunk.js.map": "/static/js/787.9a63733b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3550ed3.css",
+    "static/css/main.31635f50.css",
     "static/js/main.5c19d495.js"
   ]
 }
