@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9c2e955.css",
-    "main.js": "/static/js/main.c2b755a2.js",
+    "main.css": "/static/css/main.249825dd.css",
+    "main.js": "/static/js/main.853a3569.js",
     "static/js/787.9a63733b.chunk.js": "/static/js/787.9a63733b.chunk.js",
     "static/media/сертификат_соответствия_по_охране_труда-min.png": "/static/media/сертификат_соответствия_по_охране_труда-min.ce4f361adf9749749a11.png",
     "static/media/сертификатсоответствияISO-min.png": "/static/media/сертификатсоответствияISO-min.a0fbbb0be4bc7d42f238.png",
@@ -34,12 +34,12 @@
     "static/media/Vector.svg": "/static/media/Vector.97f2fa17fea2ff4b1672.svg",
     "static/media/humburger-closed.svg": "/static/media/humburger-closed.506f2e12ad7ced2462bb.svg",
     "static/media/humb.svg": "/static/media/humb.df99c0087556404f32f4.svg",
-    "main.c9c2e955.css.map": "/static/css/main.c9c2e955.css.map",
-    "main.c2b755a2.js.map": "/static/js/main.c2b755a2.js.map",
+    "main.249825dd.css.map": "/static/css/main.249825dd.css.map",
+    "main.853a3569.js.map": "/static/js/main.853a3569.js.map",
     "787.9a63733b.chunk.js.map": "/static/js/787.9a63733b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9c2e955.css",
-    "static/js/main.c2b755a2.js"
+    "static/css/main.249825dd.css",
+    "static/js/main.853a3569.js"
   ]
 }
